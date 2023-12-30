@@ -1,7 +1,7 @@
 /* 
  * File:   Application.c
  * Author: Mohammed Khairallah
- *
+ * linkedin : linkedin.com/in/mohammed-khairallah
  * Created on December 27, 2023, 8:01 PM
  */
 

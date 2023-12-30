@@ -1,4 +1,9 @@
-
+/* 
+ * File:   Platform_Types.h
+ * Author: Mohammed Khairallah
+ * linkedin : linkedin.com/in/mohammed-khairallah
+ * Created on December 27, 2023, 8:01 PM
+ */
 #ifndef _PLATFORM_TYPES_H
 #define _PLATFORM_TYPES_H
 
