@@ -77,7 +77,9 @@ Stack_t* DestroyStack (Stack_t* stack_obj, StackStatus_t *ret_status){
     else{
         /* Free the memory for the array object and the stack object */
         free(stack_obj->StackArray); /* Release the Array object */
+        stack_obj->StackArray = NULL;
         free(stack_obj); /* Release the stack object */
+        stack_obj = NULL;
         *ret_status = STACK_OK;
         my_stack = NULL;
     }
